@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Price_Calculator_Kata
 {
-    public class Product
+    class Product
     {
         public String Name { get; set; }
         public int UPC { get; set; }
